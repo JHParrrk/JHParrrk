@@ -32,14 +32,6 @@
 
 ---
 
-### 📈 Current Stats & Ongoing Efforts
-
-- 🏋️ **Training:** 매일 백준 알고리즘을 통한 최적화 역량 단련 및 CS 기초 강화
-- 🏗 **Next Step:** Spring Boot 미러링 프로젝트 진행 및 AWS 클라우드 인프라 설계 학습 중
-- 📝 **Writing:** 기술적 의사결정의 근거를 기록하는 [patchnotes](준하님의_블로그_주소) 운영
-
----
-
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JHParrrk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dalbogki3@gmail.com)
